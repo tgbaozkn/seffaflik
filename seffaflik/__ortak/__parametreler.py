@@ -1,5 +1,5 @@
 # URLs
-SEFFAFLIK_URL = "https://api.epias.com.tr/epias/exchange/transparency/"
+SEFFAFLIK_URL = "https://seffaflik.epias.com.tr/transparency/service/"
 # Requests Errors
 __request_error = "İstek esnasında hata oluştu. İstek tekrar deneniyor!"
 __requestsConnectionErrorLogging = "Bağlantı Hatası! Lütfen internet bağlantınızı kontrol ediniz!"
